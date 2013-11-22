@@ -1,35 +1,11 @@
 # heyawake
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar heyawake-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+A solution verifier, solver, and generator for heyawake puzzles
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Chris Frisz
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the Eclipse Public License version 1.0 (see LICENSE
+file)
+
